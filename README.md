@@ -1,5 +1,5 @@
 # Travel Blog Built with React
-### Live site: 
+### Live site: https://my-react-travel-blog.netlify.app/
 
 ## Overview
 This Travel Blog was a solo project from [The Scrimba Frontend Career Path](https://scrimba.com). I was provided a Figma File, which featured a desktop version of the site. I chose to make the site responsive and include a mobile version. 
